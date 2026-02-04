@@ -13,16 +13,6 @@ A powerful local RAG (Retrieval Augmented Generation) application that lets you 
 - 🔌 **REST API** - FastAPI backend for programmatic access
 - 📓 **Jupyter Notebooks** - For experimentation and learning
 
-## 🖼️ Screenshots
-
-### Next.js Interface (Recommended)
-![Next.js UI](nextjs_ui.png)
-*Modern chat interface with PDF management, source citations, and reasoning steps*
-
-### Streamlit Interface
-![Streamlit UI](st_app_ui.png)
-*Classic Streamlit interface with PDF viewer and chat functionality*
-
 ## 🏗️ Project Structure
 ```
 ollama_pdf_rag/
@@ -201,6 +191,3 @@ Reduce chunk size if experiencing memory issues:
 - Submit pull requests
 - ⭐ Star the repository if you find it useful!
 
-## 📝 License
-
-This project is open source and available under the MIT License.
